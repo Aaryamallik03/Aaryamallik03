@@ -1,14 +1,45 @@
-- 👋 Hi, I’m @Aaryamallik03
-- 👀 I’m interested in exploring the intersection of technology and social impact, digital art, and sustainable living.
-- 🌱 I’m currently learning front-end web development using HTML, CSS, and JavaScript, as well as exploring UX/UI design principles.
-- 💞️ I’m looking to collaborate on projects that promote environmental awareness through innovative tech solutions, or initiatives focused on enhancing digital literacy in underserved communities
-- 📫 feel free to dm me at  @https://www.instagram.com/aarya_mallick/ or linkedin.com/in/aarya-m-b18879292
-- 😄 Pronouns: she/her
-- ⚡ Fun fact:  I can speak seven languages: Nepali, english,hindi.maithili, sarcasm, emoji, and fluently mispronounce everything else.
+Hi, I'm Aarya Mallik 👋
+
+Computer Science & Engineering Student | Aspiring Data Scientist
+
+I'm a Computer Science & Engineering student interested in Data Science, Machine Learning, Software Development, and problem solving.
+
+- 🔭 Currently working on Python, Data Science, Machine Learning, and DSA
+- 🌱 Currently strengthening my skills in C++, SQL, Python, Git & GitHub
+- 💻 Practicing Data Structures & Algorithms for technical interviews
+- 📊 Interested in building projects using Python, Pandas, NumPy, Matplotlib, and Machine Learning
+- 🤝 Open to collaborating on interesting software, data, and ML projects
+- 📫 Connect with me on "LinkedIn" (https://www.linkedin.com/in/aarya-m-b18879292/)
+
+🛠️ Skills
+
+Languages:
+C++ · Python · SQL · JavaScript · HTML · CSS
+
+Data & ML:
+NumPy · Pandas · Matplotlib · Scikit-learn · TensorFlow
+
+Tools:
+Git · GitHub · MySQL · Linux
+
+Currently Learning:
+Data Structures & Algorithms · Data Science · Machine Learning
+
+🚀 Featured Projects
+
+I'm currently building and improving projects in:
+
+- 🧠 Brain Tumor Detection — Machine learning/computer vision project
+- 🔐 Secure File Encryption — Python-based file security project
+- 📊 Data Science Projects — Data analysis, visualization, and ML
+- 🌐 Web Development Projects — HTML, CSS, and JavaScript
+
+📈 My Goal
+
+To continuously improve my problem-solving and technical skills while building real-world projects that demonstrate practical software and data science abilities.
 
 
 
-<!---
-Aaryamallik03/Aaryamallik03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Connect With Me
+
+"LinkedIn" (https://www.linkedin.com/in/aarya-m-b18879292/)
