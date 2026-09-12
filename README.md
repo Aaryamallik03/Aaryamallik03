@@ -9,7 +9,6 @@ I'm a Computer Science & Engineering student interested in Data Science, Machine
 - 💻 Practicing Data Structures & Algorithms for technical interviews
 - 📊 Interested in building projects using Python, Pandas, NumPy, Matplotlib, and Machine Learning
 - 🤝 Open to collaborating on interesting software, data, and ML projects
-- 📫 Connect with me on "LinkedIn" (https://www.linkedin.com/in/aarya-m-b18879292/)
 
 🛠️ Skills
 
@@ -42,4 +41,4 @@ To continuously improve my problem-solving and technical skills while building r
 
 📫 Connect With Me
 
-"LinkedIn" (https://www.linkedin.com/in/aarya-m-b18879292/)
+Email- aaryamallik43@gmail.com
