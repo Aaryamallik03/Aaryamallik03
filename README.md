@@ -1,4 +1,4 @@
-Hi, I'm Aarya Mallik 👋
+Hi, I'm Aarya!
 
 Computer Science & Engineering Student | Aspiring Data Scientist
 
