@@ -42,4 +42,4 @@ To continuously improve my problem-solving and technical skills while building r
 
 📫 Connect With Me
 
-Email- aaryamallik43@gmail.com
+Email- aaryamallik27@gmail.com
