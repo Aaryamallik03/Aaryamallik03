@@ -6,7 +6,7 @@ I'm a Computer Science & Engineering student interested in Data Science, Machine
 
 - 🔭 Currently working on Python, Data Science, Machine Learning, and DSA
 - 🌱 Currently strengthening my skills in C++, SQL, Python, Git & GitHub
-- 💻 Practicing Data Structures & Algorithms for technical interviews
+- 💻 Practicing Data Structures & Algorithms
 - 📊 Interested in building projects using Python, Pandas, NumPy, Matplotlib, and Machine Learning
 - 🤝 Open to collaborating on interesting software, data, and ML projects
 
