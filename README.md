@@ -1,6 +1,6 @@
 Hi, I'm Aarya!
 
-Computer Science & Engineering Student | Aspiring Data Scientist
+Computer Science & Engineering Student 
 
 I'm a Computer Science & Engineering student interested in Data Science, Machine Learning, Software Development, and problem solving.
 
