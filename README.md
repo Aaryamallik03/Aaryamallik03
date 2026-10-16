@@ -32,7 +32,7 @@ I'm currently building and improving projects in:
 - 🔐 Cybersecurity Anomaly Detection — ML-based anomaly detection API | [🔗 Live Demo](https://anomaly-detector-488945240645.us-central1.run.app/docs)
 - 🌊 Flood Damage Assessment System — AI-powered building damage classification using pre- and post-disaster satellite or aerial imagery 
 - 🔐 Secure File Encryption — Python-based file security project
-- 📊 Data Science Projects — Data analysis, visualization, and ML
+- 📊 Data Science Projects — Data analysis, visualization, and ML 
 
 📈 My Goal
 
